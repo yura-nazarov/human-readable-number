@@ -71,6 +71,6 @@ module.exports = function toReadable(number) {
     return numberWords;
 }
 
-console.log(module.exports(200));
+// console.log(module.exports(200));
 
 
